@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1680112557~exp=1680113157~hmac=5bf2e9bcee46d769a4011c4eb14eecf6f7d341c82db8a1b1cb5d94d4cba6ef31">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awnish568&label=Profile%20views&color=0e75b6&style=flat" alt="awnish568" /> </p>
-
 <p align="left"> <a href="https://twitter.com/awnish_kmr" target="blank"><img src="https://img.shields.io/twitter/follow/awnish_kmr?logo=twitter&style=for-the-badge" alt="awnish_kmr" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
